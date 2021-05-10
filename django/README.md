@@ -24,7 +24,7 @@ services:
 ## Deploy with docker-compose
 
 ```
-$ docker-compose up -d
+$ docker compose up -d
 Creating network "django_default" with the default driver
 Building web
 Step 1/6 : FROM python:3.7-alpine
